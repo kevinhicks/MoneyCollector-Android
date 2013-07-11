@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyCollectorAndroidApp", "MoneyCollectorAndroidApp\MoneyCollectorAndroidApp.csproj", "{C718F116-B333-4651-A3F5-F14C86A50EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C718F116-B333-4651-A3F5-F14C86A50EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C718F116-B333-4651-A3F5-F14C86A50EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C718F116-B333-4651-A3F5-F14C86A50EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C718F116-B333-4651-A3F5-F14C86A50EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MoneyCollectorAndroidApp\MoneyCollectorAndroidApp.csproj
+	EndGlobalSection
+EndGlobal
